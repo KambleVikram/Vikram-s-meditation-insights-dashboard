@@ -1,6 +1,4 @@
-# Vikram-meditation-insights-dashboard
-
-# 🧘‍♂️ Meditation Insights Dashboard
+# Vikram Meditation Insights Dashboard
 
 This project visualizes **one year of daily meditation practice (Nov 2024 – Oct 2025)**.  
 The dashboard tracks total minutes, time-of-day patterns, weekday averages, and seasonal trends.
