@@ -5,7 +5,8 @@
 This project visualizes **one year of daily meditation practice (Nov 2024 – Oct 2025)**.  
 The dashboard tracks total minutes, time-of-day patterns, weekday averages, and seasonal trends.
 
-![Meditation Dashboard](Project meditation/meditation_dashboard.jpg)
+
+![meditation_dashboard](https://github.com/user-attachments/assets/492d8238-0ef3-4d77-9251-a003104c9035)
 
 
 ---
@@ -20,8 +21,7 @@ The dashboard tracks total minutes, time-of-day patterns, weekday averages, and 
 
 ## 🛠️ Tools Used
 - **Power BI / Excel** for data cleaning & visualization  
-- **Canva / Figma** (optional) for layout polish  
-- Data prepared in **CSV + Power Query**
+- Data prepared in **Excel + Power Query**
 
 ---
 
