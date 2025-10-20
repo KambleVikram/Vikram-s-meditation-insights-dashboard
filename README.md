@@ -4,8 +4,7 @@ This project visualizes **one year of daily meditation practice (Nov 2024 – Oc
 The dashboard tracks total minutes, time-of-day patterns, weekday averages, and seasonal trends.
 
 
-
-![Medi-Practice-Revised3_page-0001](https://github.com/user-attachments/assets/6fd7e49f-012c-489a-b7db-fc1a865f30e8)
+<img width="637" height="340" alt="Medi5" src="https://github.com/user-attachments/assets/fdde105c-7ed6-402c-ab7c-400c68fca8b9" />
 
 
 ---
