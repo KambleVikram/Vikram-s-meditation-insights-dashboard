@@ -4,14 +4,16 @@ This project visualizes **one year of daily meditation practice (Nov 2024 – Oc
 The dashboard tracks total minutes, time-of-day patterns, weekday averages, and seasonal trends.
 
 
-<img width="637" height="340" alt="Medi5" src="https://github.com/user-attachments/assets/fdde105c-7ed6-402c-ab7c-400c68fca8b9" />
+<img width="629" height="340" alt="Meditation-11-1" src="https://github.com/user-attachments/assets/0693efcb-c912-460c-bc07-ca44db8d5751" />
 
 
 ---
 
 ## 📊 Key Highlights
-- **25,000 minutes (419 hours)** of meditation logged across **313 days**
-- Average **~80 minutes per day**
+- **28,000 minutes (464 hours)** of meditation logged across **322 days**
+- Average **60 minutes per day**
+-Longest meditation day: **5 hours 20 minutes**
+- Longest single session: **1 hour 31 minutes**
 - Practice peaks on **Thursday mornings**
 - Consistent progress through **spring and summer**, peaking in **April 2025**
 
